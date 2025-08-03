@@ -4,13 +4,13 @@ Modern ve kullanıcı dostu bir otel rezervasyon uygulaması. React Native ile g
 
 ## 📱 Ekran Görüntüleri
 
-![Booking App Screenshots](https://github.com/user-attachments/assets/bf713848-4e1d-4cef-8c81-f71405cb0e8b)
+![Booking App Screenshots](https://github.com/user-attachments/assets/73d6b8e2-e4b3-453e-bfbb-4af1a6291441)
 
-![Booking App Screenshots](https://github.com/user-attachments/assets/91ba03ae-3753-4ec4-984a-3c637314b4a1)
+![Booking App Screenshots](https://github.com/user-attachments/assets/dd0a0239-9f50-46d3-869f-bb431fd5fbb4)
 
-![Booking App Screenshots](https://github.com/user-attachments/assets/688ec7f4-a3a3-45ab-97ae-97887dd40fb3)
+![Booking App Screenshots](https://github.com/user-attachments/assets/0274ede5-0791-4d44-9442-67b776eaf3eb)
 
-![Booking App Screenshots](https://github.com/user-attachments/assets/b59df051-0e79-49b3-ae02-c4a0c512e775)
+![Booking App Screenshots](https://github.com/user-attachments/assets/edbbc59f-f73f-4a8c-9838-932b4c6337df)
 
 ✨ Özellikler
 

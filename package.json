@@ -1,0 +1,40 @@
+{
+  "name": "booking-app",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-native-community/datetimepicker": "^8.4.3",
+    "@react-navigation/bottom-tabs": "^7.4.5",
+    "@react-navigation/native": "^7.1.17",
+    "@react-navigation/native-stack": "^7.3.24",
+    "@reduxjs/toolkit": "^2.8.2",
+    "dayjs": "^1.11.13",
+    "expo": "~53.0.20",
+    "expo-status-bar": "~2.2.3",
+    "expo-vector-icons": "^10.0.1",
+    "prop-types": "^15.8.1",
+    "react": "19.0.0",
+    "react-native": "0.79.5",
+    "react-native-calendar-picker": "^8.0.5",
+    "react-native-calendars": "^1.1313.0",
+    "react-native-date-picker": "^5.0.13",
+    "react-native-date-ranges": "^2.5.0",
+    "react-native-modal": "^14.0.0-rc.1",
+    "react-native-safe-area-context": "5.4.0",
+    "react-native-screens": "~4.11.1",
+    "react-native-ui-datepicker": "^3.1.2",
+    "react-redux": "^9.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@types/react": "~19.0.10",
+    "typescript": "~5.8.3"
+  },
+  "private": true
+}
